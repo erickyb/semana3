@@ -4,7 +4,7 @@ import "./styles/Baner.css"
 const Baner = () => {
     return (
         <div >
-            <img className='imagen' src="/src/assets/inicio.jpg" alt="inicio" />
+            <img className='imagen' src="/headerimage.jpg" alt="inicio" />
         </div>
     )
 }
